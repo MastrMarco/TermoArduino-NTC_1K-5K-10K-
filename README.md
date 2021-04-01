@@ -1,0 +1,1 @@
+# TermoArduino-NTC_1K-5K-10K-
